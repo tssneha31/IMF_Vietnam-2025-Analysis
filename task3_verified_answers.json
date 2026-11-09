@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What does the IMF recommend about bank capital buffers in Vietnam?",
+    "answer": "The IMF recommends accelerating the introduction of Vietnam's capital conservation buffer, which was planned for 2030–2033, to strengthen bank capitalization.",
+    "physical_pdf_pages": [
+      18
+    ],
+    "supporting_evidence": [
+      "For example, SBV could boost bank capitalization by accelerating the introduction of the capital conservation buffer (planned for 2030-33)."
+    ],
+    "verification_results": [
+      {
+        "excerpt": "For example, SBV could boost bank capitalization by accelerating the introduction of the capital conservation buffer (planned for 2030-33).",
+        "verified": true,
+        "matching_pages": [
+          "18"
+        ]
+      }
+    ],
+    "status": "Evidence text verified"
+  },
+  {
+    "question": "What assumptions and risks are considered in banking stress tests?",
+    "answer": "The IMF recommends more robust and regular bank stress testing and an early warning framework. It identifies trade shocks, exposure to exporters, and a broader economic slowdown as financial-sector risks. Specific numerical stress-test assumptions are not established by the retrieved evidence.",
+    "physical_pdf_pages": [
+      17,
+      25
+    ],
+    "supporting_evidence": [
+      "Intensifying monitoring of banks, including through more robust and regular stress testing and an early warning framework, would help to better manage and contain risks.",
+      "Banks could be affected by the trade shock through different channels, including direct exposure to exporters and the broader economic slowdown."
+    ],
+    "verification_results": [
+      {
+        "excerpt": "Intensifying monitoring of banks, including through more robust and regular stress testing and an early warning framework, would help to better manage and contain risks.",
+        "verified": true,
+        "matching_pages": [
+          "25"
+        ]
+      },
+      {
+        "excerpt": "Banks could be affected by the trade shock through different channels, including direct exposure to exporters and the broader economic slowdown.",
+        "verified": true,
+        "matching_pages": [
+          "17"
+        ]
+      }
+    ],
+    "status": "Evidence text verified"
+  },
+  {
+    "question": "What inflation target or timeline does the IMF recommend for Vietnam?",
+    "answer": "The retrieved evidence includes inflation projections and recommendations to monitor inflation pressures, but does not establish a specific IMF inflation target or deadline. No target timeline is asserted.",
+    "physical_pdf_pages": [
+      13,
+      34
+    ],
+    "supporting_evidence": [
+      "Monetary policy was appropriately supportive of the economic recovery in 2023-24 as inflation was under control."
+    ],
+    "verification_results": [
+      {
+        "excerpt": "Monetary policy was appropriately supportive of the economic recovery in 2023-24 as inflation was under control.",
+        "verified": true,
+        "matching_pages": [
+          "13"
+        ]
+      }
+    ],
+    "status": "Evidence text verified"
+  }
+]

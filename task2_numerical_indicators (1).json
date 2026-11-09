@@ -1,0 +1,58 @@
+[
+  {
+    "indicator": "Real GDP growth",
+    "value": 7.1,
+    "unit": "percent",
+    "period": "2024",
+    "physical_pdf_page": 3,
+    "evidence_excerpt": "growing at 7.1 percent"
+  },
+  {
+    "indicator": "Economic activity growth",
+    "value": 7.5,
+    "unit": "percent year-on-year",
+    "period": "First half of 2025",
+    "physical_pdf_page": 3,
+    "evidence_excerpt": "economic activity expanding by 7.5 percent (y/y)"
+  },
+  {
+    "indicator": "Headline inflation",
+    "value": 3.6,
+    "unit": "percent year-on-year",
+    "period": "June 2025",
+    "physical_pdf_page": 3,
+    "evidence_excerpt": "reaching 3.6 percent y/y in June"
+  },
+  {
+    "indicator": "Current account surplus",
+    "value": 6.6,
+    "unit": "percent of GDP",
+    "period": "2024",
+    "physical_pdf_page": 3,
+    "evidence_excerpt": "current account surplus reached a record 6.6 percent of GDP in \n2024"
+  },
+  {
+    "indicator": "Projected real GDP growth",
+    "value": 6.5,
+    "unit": "percent",
+    "period": "2025",
+    "physical_pdf_page": 12,
+    "evidence_excerpt": "Growth is projected to decelerate to 6.5 percent in 2025"
+  },
+  {
+    "indicator": "Projected real GDP growth",
+    "value": 5.6,
+    "unit": "percent",
+    "period": "2026",
+    "physical_pdf_page": 12,
+    "evidence_excerpt": "5.6 percent in 2026"
+  },
+  {
+    "indicator": "Projected fiscal deficit",
+    "value": 3.3,
+    "unit": "percent of GDP",
+    "period": "2025",
+    "physical_pdf_page": 15,
+    "evidence_excerpt": "fiscal deficit is \nprojected to widen to 3.3 percent of GDP in 2025"
+  }
+]

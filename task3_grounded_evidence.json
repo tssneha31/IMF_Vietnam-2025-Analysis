@@ -1,0 +1,195 @@
+[
+  {
+    "question": "What does the IMF recommend about bank capital buffers in Vietnam?",
+    "method": "Local FAISS retrieval + extractive evidence",
+    "evidence_candidates": [
+      {
+        "physical_pdf_page": [
+          18,
+          19
+        ],
+        "similarity": 0.6676,
+        "matched_terms": [
+          "capital conservation buffer"
+        ],
+        "evidence_sentence": "For example, SBV could boost bank \ncapitalization by accelerating the introduction of the capital conservation buffer (planned for \n2030-33)."
+      },
+      {
+        "physical_pdf_page": [
+          18,
+          19
+        ],
+        "similarity": 0.6676,
+        "matched_terms": [
+          "capital buffers"
+        ],
+        "evidence_sentence": "SBV noted the recent reforms \nand that the new LCI (including recent amendments) will improve banks’ capacity to tackle NPLs \nand manage risks and help them build capital buffers, including through the capital conservation \nbuffer, while allowing for enhanced monitoring of banks."
+      },
+      {
+        "physical_pdf_page": [
+          5,
+          6
+        ],
+        "similarity": 0.6229,
+        "matched_terms": [
+          "capital buffers"
+        ],
+        "evidence_sentence": "Building liquidity and capital buffers is a priority to increase \nresilience against shocks, including by improving the prudential toolkit."
+      },
+      {
+        "physical_pdf_page": [
+          47,
+          48,
+          49
+        ],
+        "similarity": 0.6228,
+        "matched_terms": [
+          "capital buffers"
+        ],
+        "evidence_sentence": "Bolstering capital-based macroprudential measures is needed given the relatively thin \nbank capital buffers."
+      },
+      {
+        "physical_pdf_page": [
+          47,
+          48,
+          49
+        ],
+        "similarity": 0.6228,
+        "matched_terms": [
+          "capital conservation buffer"
+        ],
+        "evidence_sentence": "Other areas include: \n• \nStrengthening the systemic risk monitoring framework by enhancing data collection and \nintroducing appropriate indicators to effectively identify, measure, and monitor systemic risk—\nleveraging stress test results; \n• \nConsidering adopting a phased approach to expand the toolkit, starting with broad-based \ncapital measures (e.g., capital conservation buffer, countercyclical capital buffer, and systemic \ninstitutions surcharge) to increase resilience and household-focused tools (e.g., loan-to-value or \n \n1 Prepared by Salim Dehmej."
+      }
+    ],
+    "verification_status": "Requires factual review"
+  },
+  {
+    "question": "What assumptions and risks are considered in banking stress tests?",
+    "method": "Local FAISS retrieval + extractive evidence",
+    "evidence_candidates": [
+      {
+        "physical_pdf_page": [
+          16,
+          17
+        ],
+        "similarity": 0.5386,
+        "matched_terms": [
+          "stress test",
+          "stress testing"
+        ],
+        "evidence_sentence": "Given the risks and high uncertainty, it would be important to \nprioritize actions to help reinforce financial sector resilience to shocks, including: increasing \nliquidity and capital buffers to better manage uncertainty; and intensify monitoring of banks, \nincluding through more robust and regular stress testing and an early warning framework, and \nensure that the rapid credit growth does not lead to a deterioration in asset quality."
+      },
+      {
+        "physical_pdf_page": [
+          41,
+          42
+        ],
+        "similarity": 0.4039,
+        "matched_terms": [
+          "stress test",
+          "stress testing"
+        ],
+        "evidence_sentence": "FSSR follow-up TAs have been focusing on stress testing, crypto asset \nregulation and supervision, and digital bank regulation."
+      },
+      {
+        "physical_pdf_page": [
+          17,
+          18
+        ],
+        "similarity": 0.3864,
+        "matched_terms": [
+          "stress test",
+          "stress testing"
+        ],
+        "evidence_sentence": "Given the risks and high uncertainty, it would be important to \nprioritize actions to help reinforce financial sector resilience to shocks, including: increasing \nliquidity and capital buffers to better manage uncertainty; and intensify monitoring of banks, \nincluding through more robust and regular stress testing and an early warning framework, and \nensure that the rapid credit growth does not lead to a deterioration in asset quality."
+      },
+      {
+        "physical_pdf_page": [
+          66,
+          67
+        ],
+        "similarity": 0.3842,
+        "matched_terms": [
+          "stress test",
+          "stress testing"
+        ],
+        "evidence_sentence": "Technical Assistance \nIn recent years, Vietnam has received technical assistance (TA) in the areas of statistics (government \nfinance (GFS), external sector (ESS), monetary and financial (MFS), prices, and national accounts \nstatistics), debt management, tax administration, fiscal risks, liberalization of capital controls on \nexternal debt, foreign exchange reserve management, crypto asset supervision and regulation, bank \nstress testing, macroeconomic frameworks, and forecasting and policy analysis system (FPAS)."
+      },
+      {
+        "physical_pdf_page": [
+          66,
+          67
+        ],
+        "similarity": 0.3842,
+        "matched_terms": [
+          "stress test",
+          "stress testing"
+        ],
+        "evidence_sentence": "FSSR follow-up TA with the State Securities Commission on a crypto \nregulatory framework started in May 2025 and TA to SBV on bank stress testing started in July 2025."
+      }
+    ],
+    "verification_status": "Requires factual review"
+  },
+  {
+    "question": "What inflation target or timeline does the IMF recommend for Vietnam?",
+    "method": "Local FAISS retrieval + extractive evidence",
+    "evidence_candidates": [
+      {
+        "physical_pdf_page": [
+          9,
+          10
+        ],
+        "similarity": 0.6925,
+        "matched_terms": [
+          "inflation target",
+          "inflation"
+        ],
+        "evidence_sentence": "3 The errors and omissions in 2024 amounted to 6.9 percent of GDP. \n-6\n-5\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nFeb-22\nJun-22\nOct-22\nFeb-23\nJun-23\nOct-23\nFeb-24\nJun-24\nOct-24\nFeb-25\nJun-25\nHeadline CPI\nCore CPI\nInflation target (range)\nChina's PPI\nHeadline and Core Inflation\n(In percent, y/y)\nSources: Vietnamese authorities and IMF staff calculations."
+      },
+      {
+        "physical_pdf_page": [
+          2,
+          3
+        ],
+        "similarity": 0.7398,
+        "matched_terms": [
+          "inflation"
+        ],
+        "evidence_sentence": "Inflation accelerated somewhat in recent months, reaching 3.6 percent y/y in June, but \nremains below the target."
+      },
+      {
+        "physical_pdf_page": [
+          9,
+          10
+        ],
+        "similarity": 0.6925,
+        "matched_terms": [
+          "inflation"
+        ],
+        "evidence_sentence": "Headline inflation accelerated to 3.6 percent in \nJune, but remained below the target (4½-5 \npercent) 2 as favorable fuel prices and spillovers \nfrom deflation in China offset rising domestic demand and housing price pressures amid the \nrecovering real estate market."
+      },
+      {
+        "physical_pdf_page": [
+          9,
+          10
+        ],
+        "similarity": 0.6925,
+        "matched_terms": [
+          "inflation"
+        ],
+        "evidence_sentence": "2 The target on inflation, set every year, functions as a ceiling in practice."
+      },
+      {
+        "physical_pdf_page": [
+          2
+        ],
+        "similarity": 0.684,
+        "matched_terms": [
+          "inflation"
+        ],
+        "evidence_sentence": "Inflation accelerated somewhat in recent months, reaching 3.6 percent y/y in June, but \nremains below the target."
+      }
+    ],
+    "verification_status": "Requires factual review"
+  }
+]
